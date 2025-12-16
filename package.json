@@ -1,5 +1,5 @@
 {
-  "name": "@w-10-m/gsuite-mcp",
+  "name": "@west10tech/gsuite-mcp",
   "version": "0.0.0-development",
   "description": "Comprehensive Google Workspace MCP server with Gmail, Drive, Calendar, and Contacts integration",
   "type": "module",
