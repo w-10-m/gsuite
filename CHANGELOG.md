@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/w-10-m/gsuite/compare/v1.0.0...v1.1.0) (2025-12-17)
+
+
+### Features
+
+* add OIDC npm publishing with provenance ([f8d41e9](https://github.com/w-10-m/gsuite/commit/f8d41e94780163bdd804a4f454a639704d2f45eb))
+
 # 1.0.0 (2025-12-16)
 
 
