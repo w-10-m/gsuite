@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/w-10-m/gsuite/compare/v1.1.0...v1.1.1) (2025-12-23)
+
+
+### Bug Fixes
+
+* update README with correct package information ([9ae0f41](https://github.com/w-10-m/gsuite/commit/9ae0f414d983c8549eeac3276bbd956f9c11aa1b))
+
 # [1.1.0](https://github.com/w-10-m/gsuite/compare/v1.0.0...v1.1.0) (2025-12-17)
 
 
