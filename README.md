@@ -1,6 +1,10 @@
-# gsuite
+# gsuite-mcp
+
+[![npm version](https://img.shields.io/npm/v/@west10tech/gsuite-mcp.svg)](https://www.npmjs.com/package/@west10tech/gsuite-mcp)
 
 Comprehensive Google Workspace MCP server with Gmail, Drive, Calendar, and Contacts integration
+
+**npm:** https://www.npmjs.com/package/@west10tech/gsuite-mcp
 
 This MCP server includes the following integrations:
 
@@ -42,7 +46,7 @@ This MCP server provides 26 tools across 4 integrations:
 ## Installation
 
 ```bash
-npm install gsuite-github-publish-gsuite-001
+npm install @west10tech/gsuite-mcp
 ```
 
 ## Environment Setup
@@ -77,7 +81,7 @@ Add this to your Claude Desktop configuration:
   "mcpServers": {
     "gsuite": {
       "command": "npx",
-      "args": ["gsuite-github-publish-gsuite-001"],
+      "args": ["@west10tech/gsuite-mcp"],
       "env": {
         "GOOGLE_CLIENT_ID": "your_google_client_id_here",
         "GOOGLE_CLIENT_SECRET": "your_google_client_secret_here",
