@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/w-10-m/gsuite/compare/v1.1.1...v1.2.0) (2025-12-24)
+
+
+### Features
+
+* add unit tests with coverage reporting ([a1c105f](https://github.com/w-10-m/gsuite/commit/a1c105f4956f67ba39e5a93d337785bbe84680e7))
+
 ## [1.1.1](https://github.com/w-10-m/gsuite/compare/v1.1.0...v1.1.1) (2025-12-23)
 
 
