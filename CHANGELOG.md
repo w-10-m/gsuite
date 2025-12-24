@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/w-10-m/gsuite/compare/v1.2.0...v1.3.0) (2025-12-24)
+
+
+### Features
+
+* add unit tests with 87.1% coverage ([d6b7de8](https://github.com/w-10-m/gsuite/commit/d6b7de839102ccf4ab6ba271c95239d1d8e81d2e))
+* improve test coverage to 93%+ ([8731aa4](https://github.com/w-10-m/gsuite/commit/8731aa4bd9f00f3d3174f0295ff9f2cf5d959edc))
+
 # [1.2.0](https://github.com/w-10-m/gsuite/compare/v1.1.1...v1.2.0) (2025-12-24)
 
 
