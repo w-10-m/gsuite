@@ -1,7 +1,7 @@
 # gsuite-mcp
 
 [![npm version](https://img.shields.io/npm/v/@west10tech/gsuite-mcp.svg)](https://www.npmjs.com/package/@west10tech/gsuite-mcp)
-[![Coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/w-10-m/COVERAGE_GIST_ID/raw/coverage.json)]()
+[![Coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/gcaliene/c900729d15553491a34b397832b745c7/raw/coverage.json)]()
 
 Comprehensive Google Workspace MCP server with Gmail, Drive, Calendar, and Contacts integration
 
