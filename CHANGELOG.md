@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/w-10-m/gsuite/compare/v1.3.0...v1.4.0) (2025-12-25)
+
+
+### Features
+
+* add E2E test infrastructure ([e32e4c8](https://github.com/w-10-m/gsuite/commit/e32e4c8c9d1325b565ada8172ecfed81cac547a0))
+
 # [1.3.0](https://github.com/w-10-m/gsuite/compare/v1.2.0...v1.3.0) (2025-12-24)
 
 
